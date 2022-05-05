@@ -1,0 +1,17 @@
+.idea
+scratch.py
+x_test.pickle
+x_train.pickle
+y_test.pickle
+y_train.pickle
+assets/faces
+assets/inbox
+assets/retina training
+assets/retina validation
+assets/seg_pred
+assets/seg_test
+assets/seg_train
+assets/archive.zip
+assets/archive (2).zip
+assets/sentiment_training.csv
+assets/train-balanced-sarcasm.csv
