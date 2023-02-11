@@ -6,3 +6,4 @@ y_test.pickle
 y_train.pickle
 assets
 .env
+faces.model
